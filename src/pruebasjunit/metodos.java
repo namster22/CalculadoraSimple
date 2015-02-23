@@ -6,7 +6,7 @@
 package pruebasjunit;
 
 /**
- *
+ *hola esto es una prueba
  * @author Emilio
  */
 public class metodos {
